@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Winta 👋
 
-<!--
-**wtesfamariam/wtesfamariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cybersecurity student with a strong interest in cybersecurity, AI, linux, and data analysis.
+I enjoy understanding how systems work, exploring security challenges and using data to identify patterns and gain insights. I am interested in how AI approaches can support cybersecurity. 
 
-Here are some ideas to get you started:
+This GitHub is where I share projects from my studies and personal learning as I continue developing my technical skills. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌱 Currently learning 
+- Governance, Risk & Compliance (GRC)
+- IoT & OT Security
+- Agile Project Management
+
+## Outside of the classroom
+Outside of university, I enjoy working in my own virtual lab environments, completing hands on challenges on TryHackMe and exploring real world cyber and AI scenarios through Forage.
